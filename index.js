@@ -1,4 +1,5 @@
 var katzDeli = []
+var name = ["Ada", "Grace", "Kent"]
 
 function takeANumber(katzDeli, name) {
   katzDeli.push(`${name}`)
